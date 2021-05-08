@@ -5,7 +5,7 @@
 named "weather".
 2. Enter City name and hit return 
    or click on "get weather" button
-#package required to run the source code:
+package required to run the source code:
 1. Tkinter
 2. requests
 3. time
